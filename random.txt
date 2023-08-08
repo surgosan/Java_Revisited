@@ -1,0 +1,19 @@
+Hello I am the one
+Who deserves
+respect on
+the
+streets
+name, company
+name, company
+
+key => name
+
+if i want a value, i search the name.
+map.get(company);
+
+[00,1,2,3,4,5]
+map [key1 => value1, key2 => value2, key3 => value 3]
+
+values [v1, v2, v3]
+        ^    ^   ^
+keys   [k1, k2, k3]
